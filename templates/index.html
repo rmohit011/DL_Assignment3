@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Search Page</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  </head>
+  <body>
+    <h1>Upload Image for Object Classification</h1>
+    <form method="POST" action="/predict" enctype="multipart/form-data">
+      <p><input type="file" name="file"></p>
+      <p><input type="submit" value="Predict"></p>
+    </form>
+  </body>
+</html>

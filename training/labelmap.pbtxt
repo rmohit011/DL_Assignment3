@@ -1,0 +1,718 @@
+item {
+  id: 1
+  name: 'Chihuahua'
+}
+
+
+item {
+  id: 2
+  name: 'Japanese_spaniel'
+}
+
+
+item {
+  id: 3
+  name: 'Maltese_dog'
+}
+
+
+item {
+  id: 4
+  name: 'Pekinese'
+}
+
+
+item {
+  id: 5
+  name: 'Shih'
+}
+
+
+item {
+  id: 6
+  name: 'Blenheim_spaniel'
+}
+
+
+item {
+  id: 7
+  name: 'papillon'
+}
+
+
+item {
+  id: 8
+  name: 'toy_terrier'
+}
+
+
+item {
+  id: 9
+  name: 'Rhodesian_ridgeback'
+}
+
+
+item {
+  id: 10
+  name: 'Afghan_hound'
+}
+
+
+item {
+  id: 11
+  name: 'basset'
+}
+
+
+item {
+  id: 12
+  name: 'beagle'
+}
+
+
+item {
+  id: 13
+  name: 'bloodhound'
+}
+
+
+item {
+  id: 14
+  name: 'bluetick'
+}
+
+
+item {
+  id: 15
+  name: 'black'
+}
+
+
+item {
+  id: 16
+  name: 'Walker_hound'
+}
+
+
+item {
+  id: 17
+  name: 'English_foxhound'
+}
+
+
+item {
+  id: 18
+  name: 'redbone'
+}
+
+
+item {
+  id: 19
+  name: 'borzoi'
+}
+
+
+item {
+  id: 20
+  name: 'Irish_wolfhound'
+}
+
+
+item {
+  id: 21
+  name: 'Italian_greyhound'
+}
+
+
+item {
+  id: 22
+  name: 'whippet'
+}
+
+
+item {
+  id: 23
+  name: 'Ibizan_hound'
+}
+
+
+item {
+  id: 24
+  name: 'Norwegian_elkhound'
+}
+
+
+item {
+  id: 25
+  name: 'otterhound'
+}
+
+
+item {
+  id: 26
+  name: 'Saluki'
+}
+
+
+item {
+  id: 27
+  name: 'Scottish_deerhound'
+}
+
+
+item {
+  id: 28
+  name: 'Weimaraner'
+}
+
+
+item {
+  id: 29
+  name: 'Staffordshire_bullterrier'
+}
+
+
+item {
+  id: 30
+  name: 'American_Staffordshire_terrier'
+}
+
+
+item {
+  id: 31
+  name: 'Bedlington_terrier'
+}
+
+
+item {
+  id: 32
+  name: 'Border_terrier'
+}
+
+
+item {
+  id: 33
+  name: 'Kerry_blue_terrier'
+}
+
+
+item {
+  id: 34
+  name: 'Irish_terrier'
+}
+
+
+item {
+  id: 35
+  name: 'Norfolk_terrier'
+}
+
+
+item {
+  id: 36
+  name: 'Norwich_terrier'
+}
+
+
+item {
+  id: 37
+  name: 'Yorkshire_terrier'
+}
+
+
+item {
+  id: 38
+  name: 'wire'
+}
+
+
+item {
+  id: 39
+  name: 'Lakeland_terrier'
+}
+
+
+item {
+  id: 40
+  name: 'Sealyham_terrier'
+}
+
+
+item {
+  id: 41
+  name: 'Airedale'
+}
+
+
+item {
+  id: 42
+  name: 'cairn'
+}
+
+
+item {
+  id: 43
+  name: 'Australian_terrier'
+}
+
+
+item {
+  id: 44
+  name: 'Dandie_Dinmont'
+}
+
+
+item {
+  id: 45
+  name: 'Boston_bull'
+}
+
+
+item {
+  id: 46
+  name: 'miniature_schnauzer'
+}
+
+
+item {
+  id: 47
+  name: 'giant_schnauzer'
+}
+
+
+item {
+  id: 48
+  name: 'standard_schnauzer'
+}
+
+
+item {
+  id: 49
+  name: 'Scotch_terrier'
+}
+
+
+item {
+  id: 50
+  name: 'Tibetan_terrier'
+}
+
+
+item {
+  id: 51
+  name: 'silky_terrier'
+}
+
+
+item {
+  id: 52
+  name: 'soft'
+}
+
+
+item {
+  id: 53
+  name: 'West_Highland_white_terrier'
+}
+
+
+item {
+  id: 54
+  name: 'Lhasa'
+}
+
+
+item {
+  id: 55
+  name: 'flat'
+}
+
+
+item {
+  id: 56
+  name: 'curly'
+}
+
+
+item {
+  id: 57
+  name: 'golden_retriever'
+}
+
+
+item {
+  id: 58
+  name: 'Labrador_retriever'
+}
+
+
+item {
+  id: 59
+  name: 'Chesapeake_Bay_retriever'
+}
+
+
+item {
+  id: 60
+  name: 'German_short'
+}
+
+
+item {
+  id: 61
+  name: 'vizsla'
+}
+
+
+item {
+  id: 62
+  name: 'English_setter'
+}
+
+
+item {
+  id: 63
+  name: 'Irish_setter'
+}
+
+
+item {
+  id: 64
+  name: 'Gordon_setter'
+}
+
+
+item {
+  id: 65
+  name: 'Brittany_spaniel'
+}
+
+
+item {
+  id: 66
+  name: 'clumber'
+}
+
+
+item {
+  id: 67
+  name: 'English_springer'
+}
+
+
+item {
+  id: 68
+  name: 'Welsh_springer_spaniel'
+}
+
+
+item {
+  id: 69
+  name: 'cocker_spaniel'
+}
+
+
+item {
+  id: 70
+  name: 'Sussex_spaniel'
+}
+
+
+item {
+  id: 71
+  name: 'Irish_water_spaniel'
+}
+
+
+item {
+  id: 72
+  name: 'kuvasz'
+}
+
+
+item {
+  id: 73
+  name: 'schipperke'
+}
+
+
+item {
+  id: 74
+  name: 'groenendael'
+}
+
+
+item {
+  id: 75
+  name: 'malinois'
+}
+
+
+item {
+  id: 76
+  name: 'briard'
+}
+
+
+item {
+  id: 77
+  name: 'kelpie'
+}
+
+
+item {
+  id: 78
+  name: 'komondor'
+}
+
+
+item {
+  id: 79
+  name: 'Old_English_sheepdog'
+}
+
+
+item {
+  id: 80
+  name: 'Shetland_sheepdog'
+}
+
+
+item {
+  id: 81
+  name: 'collie'
+}
+
+
+item {
+  id: 82
+  name: 'Border_collie'
+}
+
+
+item {
+  id: 83
+  name: 'Bouvier_des_Flandres'
+}
+
+
+item {
+  id: 84
+  name: 'Rottweiler'
+}
+
+
+item {
+  id: 85
+  name: 'German_shepherd'
+}
+
+
+item {
+  id: 86
+  name: 'Doberman'
+}
+
+
+item {
+  id: 87
+  name: 'miniature_pinscher'
+}
+
+
+item {
+  id: 88
+  name: 'Greater_Swiss_Mountain_dog'
+}
+
+
+item {
+  id: 89
+  name: 'Bernese_mountain_dog'
+}
+
+
+item {
+  id: 90
+  name: 'Appenzeller'
+}
+
+
+item {
+  id: 91
+  name: 'EntleBucher'
+}
+
+
+item {
+  id: 92
+  name: 'boxer'
+}
+
+
+item {
+  id: 93
+  name: 'bull_mastiff'
+}
+
+
+item {
+  id: 94
+  name: 'Tibetan_mastiff'
+}
+
+
+item {
+  id: 95
+  name: 'French_bulldog'
+}
+
+
+item {
+  id: 96
+  name: 'Great_Dane'
+}
+
+
+item {
+  id: 97
+  name: 'Saint_Bernard'
+}
+
+
+item {
+  id: 98
+  name: 'Eskimo_dog'
+}
+
+
+item {
+  id: 99
+  name: 'malamute'
+}
+
+
+item {
+  id: 100
+  name: 'Siberian_husky'
+}
+
+
+item {
+  id: 101
+  name: 'affenpinscher'
+}
+
+
+item {
+  id: 102
+  name: 'basenji'
+}
+
+
+item {
+  id: 103
+  name: 'pug'
+}
+
+
+item {
+  id: 104
+  name: 'Leonberg'
+}
+
+
+item {
+  id: 105
+  name: 'Newfoundland'
+}
+
+
+item {
+  id: 106
+  name: 'Great_Pyrenees'
+}
+
+
+item {
+  id: 107
+  name: 'Samoyed'
+}
+
+
+item {
+  id: 108
+  name: 'Pomeranian'
+}
+
+
+item {
+  id: 109
+  name: 'chow'
+}
+
+
+item {
+  id: 110
+  name: 'keeshond'
+}
+
+
+item {
+  id: 111
+  name: 'Brabancon_griffon'
+}
+
+
+item {
+  id: 112
+  name: 'Pembroke'
+}
+
+
+item {
+  id: 113
+  name: 'Cardigan'
+}
+
+
+item {
+  id: 114
+  name: 'toy_poodle'
+}
+
+
+item {
+  id: 115
+  name: 'miniature_poodle'
+}
+
+
+item {
+  id: 116
+  name: 'standard_poodle'
+}
+
+
+item {
+  id: 117
+  name: 'Mexican_hairless'
+}
+
+
+item {
+  id: 118
+  name: 'dingo'
+}
+
+
+item {
+  id: 119
+  name: 'dhole'
+}
+
+
+item {
+  id: 120
+  name: 'African_hunting_dog'
+}
